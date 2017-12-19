@@ -39,6 +39,3 @@ For the sake of simplicity, we will assume that you are working on a Windows-pow
 * [Unity 2017 Game Optimization - Second Edition](https://www.packtpub.com/game-development/unity-2017-game-optimization-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788392365)
 
 * [Mastering Unity 5.x](https://www.packtpub.com/game-development/mastering-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781785880742)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
