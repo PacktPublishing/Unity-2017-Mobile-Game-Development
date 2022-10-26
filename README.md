@@ -39,3 +39,7 @@ For the sake of simplicity, we will assume that you are working on a Windows-pow
 * [Unity 2017 Game Optimization - Second Edition](https://www.packtpub.com/game-development/unity-2017-game-optimization-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788392365)
 
 * [Mastering Unity 5.x](https://www.packtpub.com/game-development/mastering-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781785880742)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288713">https://packt.link/free-ebook/9781787288713 </a> </p>
